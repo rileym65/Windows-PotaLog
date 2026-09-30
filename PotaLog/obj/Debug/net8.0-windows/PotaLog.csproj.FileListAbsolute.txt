@@ -1,0 +1,16 @@
+C:\Mikes\Projects\PotaLog\PotaLog\bin\Debug\net8.0-windows\PotaLog.exe
+C:\Mikes\Projects\PotaLog\PotaLog\bin\Debug\net8.0-windows\PotaLog.deps.json
+C:\Mikes\Projects\PotaLog\PotaLog\bin\Debug\net8.0-windows\PotaLog.runtimeconfig.json
+C:\Mikes\Projects\PotaLog\PotaLog\bin\Debug\net8.0-windows\PotaLog.dll
+C:\Mikes\Projects\PotaLog\PotaLog\bin\Debug\net8.0-windows\PotaLog.pdb
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.Form1.resources
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.csproj.GenerateResource.cache
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.AssemblyInfoInputs.cache
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.AssemblyInfo.cs
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.csproj.CoreCompileInputs.cache
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.dll
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\refint\PotaLog.dll
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.pdb
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\PotaLog.genruntimeconfig.cache
+C:\Mikes\Projects\PotaLog\PotaLog\obj\Debug\net8.0-windows\ref\PotaLog.dll
